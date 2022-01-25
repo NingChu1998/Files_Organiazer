@@ -16,10 +16,6 @@ Files_Organiazer requires [Python](https://www.python.org/) 3+ to run
 git clone https://github.com/NingChu1998/Files_Organiazer
 ```
 
-#### Install all the requirements
- ```sh
-pip install -r requirements.txt
-```
 #### Running the application
 ```
 Run the main.py
