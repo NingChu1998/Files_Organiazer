@@ -21,3 +21,6 @@ git clone https://github.com/NingChu1998/Files_Organiazer
 Run the main.py
 ```
 ---
+
+## Example
+![image](https://github.com/NingChu1998/Files_Organiazer/blob/main/files_organizer.gif)
