@@ -1,2 +1,27 @@
 # Files_Organiazer
-This is a python small project to help me managing and organizing my files on my computer.
+##### Password Manager automatically organizes the files based on their type.
+---
+##  Tech
+
+#### Files_Organiazer uses a number of Python Modules to work properly:
+- [OS](https://docs.python.org/3/library/os.html) - For interating with the operating system.
+- [Shutil](https://docs.python.org/3/library/shutil.html) - For offering high-level operation on a file like a copy, create, and remote operation on the file.
+
+##  Installation
+
+Files_Organiazer requires [Python](https://www.python.org/) 3+ to run
+ 
+#### Clone the Repository from github
+ ```sh
+git clone https://github.com/NingChu1998/Files_Organiazer
+```
+
+#### Install all the requirements
+ ```sh
+pip install -r requirements.txt
+```
+#### Running the application
+```
+Run the main.py
+```
+---
